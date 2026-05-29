@@ -8,3 +8,4 @@ feat: projenin ana semantik HTML5 iskeleti ve SEO etiketleri oluşturuldu
 docs: proje raporu, müşteri analizi ve README dökümantasyonu tamamlandı
 opencode dan yararlanıldı
 file:///C:/Users/User/Desktop/site/index.html
+https://ilkimonercan.github.io/eskisehirtepebasileoweb/
